@@ -13,7 +13,8 @@ Only enter "phone number" with unknown digits.
 The program writes the result in output.txt, it will also offer to write down all the numbers in a list.
 
 
-```git clone https://github.com/dark0wizard/Create-phone-numbers-for-tests.git
+```
+   git clone https://github.com/dark0wizard/Create-phone-numbers-for-tests.git
    cd Create-phone-numbers-for-tests
    python main.py
 ```
