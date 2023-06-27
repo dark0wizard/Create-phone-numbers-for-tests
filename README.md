@@ -7,3 +7,7 @@ For example:
 3. And so on
 
 P.S. It does not matter where the X's are located, whether they will be consecutive or separate in the number you specify
+
+# Usage
+Only enter "phone number" with unknown digits.
+The program writes the result in output.txt, it will also offer to write down all the numbers in a list.
