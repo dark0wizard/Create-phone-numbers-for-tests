@@ -12,8 +12,9 @@ P.S. It does not matter where the X's are located, whether they will be consecut
 Only enter "phone number" with unknown digits.
 The program writes the result in output.txt, it will also offer to write down all the numbers in a list.
 
-```git clone
-   cd Create-phone-numbers-for-tests
-   python main.py```
 
+```git clone https://github.com/dark0wizard/Create-phone-numbers-for-tests.git
+   cd Create-phone-numbers-for-tests
+   python main.py
+```
 Or you can simply copy the code from main.py and paste into your environment
